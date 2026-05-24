@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+}
+
+section {
+    width: 70%;
+    background-color: white;
+    padding: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+aside {
+    width: 30%;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
