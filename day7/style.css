@@ -1,0 +1,81 @@
+body {
+    background-color: #eef2f3;
+    font-family: Arial, sans-serif;
+}
+
+/* Profile Card */
+
+.card {
+    width: 300px;
+
+    background-color: white;
+
+    margin: 60px auto;
+
+    padding: 25px;
+
+    border: 2px solid #e40b82;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    box-shadow: 0px 40px 10px gray;
+}
+
+/* Profile Image */
+
+.card img {
+    width: 120px;
+    height: 120px;
+
+    border-radius: 50%;
+
+    border: 3px solid rgb(69, 69, 226);
+}
+
+/* Heading */
+
+.card h1 {
+    color: darkblue;
+
+    margin-top: 15px;
+}
+
+/* Role */
+
+.role {
+    color: gray;
+
+    font-size: 18px;
+
+    margin-bottom: 15px;
+}
+
+/* Paragraph */
+
+.card p {
+    padding: 5px;
+}
+
+/* Button */
+
+button {
+    background-color: rgb(5, 5, 114);
+
+    color: white;
+
+    border: none;
+
+    padding: 12px 20px;
+
+    margin-top: 15px;
+
+    border-radius: 5px;
+
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgb(128, 0, 122);
+}
